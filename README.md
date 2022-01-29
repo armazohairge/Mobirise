@@ -1,2 +1,0 @@
-# Mobirise
-GitHub Pages
